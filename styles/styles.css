@@ -1,0 +1,31 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high */
+    font-family: "Oswald", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  }
+    h1 {
+        margin: 0 auto;
+        padding: 20px;
+        color: #0c86f8;
+        text-shadow: 2px 2px 0px rgb(160, 20, 20);
+        font-size: 50px;
+        text-align: center;
+      }
+
+p,
+li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+} 
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fbff001e;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  
+img {
+    display: block;
+    margin: 0 auto;
+}
